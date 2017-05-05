@@ -1,0 +1,14 @@
+// css reset 严重初始化
+
+// normalize.css
+
+/* =========================================== */
+
+body {
+	background: #555;
+	color: #888;
+}
+.container {
+	max-width: 980px;
+	margin: 0 auto;
+}
